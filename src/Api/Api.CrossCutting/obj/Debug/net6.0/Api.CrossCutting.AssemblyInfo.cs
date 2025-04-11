@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Api.Application")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Api.CrossCutting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78502440dfd152d1fe4a7d62a482f7ef04a3982c")]
-[assembly: System.Reflection.AssemblyProductAttribute("Api.Application")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Api.Application")]
+[assembly: System.Reflection.AssemblyProductAttribute("Api.CrossCutting")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Api.CrossCutting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
