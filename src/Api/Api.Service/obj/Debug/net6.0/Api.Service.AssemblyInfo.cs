@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Api.Application")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Api.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3bc769490260a2147f05beab0e280374bcb8652")]
-[assembly: System.Reflection.AssemblyProductAttribute("Api.Application")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Api.Application")]
+[assembly: System.Reflection.AssemblyProductAttribute("Api.Service")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Api.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
