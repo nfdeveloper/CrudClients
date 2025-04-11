@@ -1,0 +1,12 @@
+C:\Users\nfdev\Documents\Dev\DotNet\CrudClients\src\Api\Api.Domain\bin\Debug\net6.0\Api.Domain.deps.json
+C:\Users\nfdev\Documents\Dev\DotNet\CrudClients\src\Api\Api.Domain\bin\Debug\net6.0\Api.Domain.dll
+C:\Users\nfdev\Documents\Dev\DotNet\CrudClients\src\Api\Api.Domain\bin\Debug\net6.0\Api.Domain.pdb
+C:\Users\nfdev\Documents\Dev\DotNet\CrudClients\src\Api\Api.Domain\obj\Debug\net6.0\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfdev\Documents\Dev\DotNet\CrudClients\src\Api\Api.Domain\obj\Debug\net6.0\Api.Domain.AssemblyInfoInputs.cache
+C:\Users\nfdev\Documents\Dev\DotNet\CrudClients\src\Api\Api.Domain\obj\Debug\net6.0\Api.Domain.AssemblyInfo.cs
+C:\Users\nfdev\Documents\Dev\DotNet\CrudClients\src\Api\Api.Domain\obj\Debug\net6.0\Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nfdev\Documents\Dev\DotNet\CrudClients\src\Api\Api.Domain\obj\Debug\net6.0\Api.Domain.sourcelink.json
+C:\Users\nfdev\Documents\Dev\DotNet\CrudClients\src\Api\Api.Domain\obj\Debug\net6.0\Api.Domain.dll
+C:\Users\nfdev\Documents\Dev\DotNet\CrudClients\src\Api\Api.Domain\obj\Debug\net6.0\refint\Api.Domain.dll
+C:\Users\nfdev\Documents\Dev\DotNet\CrudClients\src\Api\Api.Domain\obj\Debug\net6.0\Api.Domain.pdb
+C:\Users\nfdev\Documents\Dev\DotNet\CrudClients\src\Api\Api.Domain\obj\Debug\net6.0\ref\Api.Domain.dll
